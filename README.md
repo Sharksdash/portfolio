@@ -20,4 +20,8 @@
 [Чек-лист органайзера](https://docs.google.com/document/d/1BPNMzTKC1HBJjPEinNTILYBWSZzjzyde/edit)  
 [Баг-репорты ListBoxer, EspoCRM, HiTechPlace, phpTravels](https://docs.google.com/spreadsheets/d/13B8EJLx1zriLRQXQBsWEzzC98iMfjjAU/edit#gid=1374013526)  
 
+## Автоматизация тестирования  
 
+[Тестирования проекта "Book store"](https://github.com/Sharksdash/book_store_testing)  
+[Тестирование проектов opensource-demo.orangehrmlive.com и saucedemo.com](https://github.com/Sharksdash/automation/blob/main/lesson_2.py)  
+[Тестирование проектов espocrm.com и demo.automationtesting.in](https://github.com/Sharksdash/automation/blob/main/lesson_3.py)  
