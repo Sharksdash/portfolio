@@ -12,6 +12,9 @@
 [Сертификат Основы автоматизации тестирования с помощью Selenium и Python](https://drive.google.com/drive/folders/16A0BmEttFWBJK-vqUDH35vXEBwypfmFA)  
 
 ## Мое портфолио
-[Чек-лист по видам тестирования](https://docs.google.com/document/d/1GmHGiG-3_KMonRQyeFVOVwiYfBeybKv7/edit)
-[Чек-лист регистрации и ввода данных](https://docs.google.com/document/d/1UHbCsFXZoSXbq3-5HGL-jLWprEl8Seje/edit)
-[Чек-лист органайзера](https://docs.google.com/document/d/1BPNMzTKC1HBJjPEinNTILYBWSZzjzyde/edit)
+[Чек-лист по видам тестирования](https://docs.google.com/document/d/1GmHGiG-3_KMonRQyeFVOVwiYfBeybKv7/edit)  
+[Чек-лист регистрации и ввода данных](https://docs.google.com/document/d/1UHbCsFXZoSXbq3-5HGL-jLWprEl8Seje/edit)  
+[Чек-лист органайзера](https://docs.google.com/document/d/1BPNMzTKC1HBJjPEinNTILYBWSZzjzyde/edit)  
+[Баг-репорты ListBoxer, EspoCRM, HiTechPlace, phpTravels](https://docs.google.com/spreadsheets/d/13B8EJLx1zriLRQXQBsWEzzC98iMfjjAU/edit#gid=1374013526)  
+
+
