@@ -19,6 +19,6 @@
 
 ## Автоматизация тестирования  
 
-[Тестирования проекта "Book store"](https://github.com/Sharksdash/book_store_testing)  
+[Тестирование проекта "Book store"](https://github.com/Sharksdash/book_store_testing)  
 [Тестирование проектов opensource-demo.orangehrmlive.com и saucedemo.com](https://github.com/Sharksdash/automation/blob/main/lesson_2.py)  
 [Тестирование проектов espocrm.com и demo.automationtesting.in](https://github.com/Sharksdash/automation/blob/main/lesson_3.py)  
